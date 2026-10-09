@@ -87,7 +87,7 @@ npx eas-cli@latest submit --platform android
 - Mention claire : *aucun argent réel ne peut être misé ni gagné*.
 - **Politique de confidentialité** (URL obligatoire) : e-mail et pseudo uniquement.
 - La **suppression du compte** est disponible dans l'appli (Mon compte), comme l'exige Apple.
-- Identifiant de l'appli : `com.jkvisual.stbsports` (modifiable dans `app.json` avant la première publication).
+- Identifiant de l'appli : `fr.stbsports.app` (modifiable dans `app.json` avant la première publication).
 
 ## Commandes utiles
 

@@ -8,7 +8,7 @@
     "userInterfaceStyle": "dark",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.jkvisual.stbsports",
+      "bundleIdentifier": "fr.stbsports.app",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -21,7 +21,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.jkvisual.stbsports"
+      "package": "fr.stbsports.app"
     },
     "web": {
       "favicon": "./assets/favicon.png",
