@@ -1,0 +1,8 @@
+project_id = "stbsports"
+
+# Les fonctions sont appelées par pg_cron avec x-cron-secret, pas par les joueurs.
+[functions.sync-matches]
+verify_jwt = false
+
+[functions.settle-matches]
+verify_jwt = false
